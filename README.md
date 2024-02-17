@@ -1,6 +1,7 @@
 A short example of outlier detection on triangular mesh.
 
 |Model                             |AUC Train|AUC Test|
+|----------------------------------|---------|--------|
 |InfinityNormRatio+EllipticFeatures|0.999    |0.9     |
 |InfinityNormRatio+IsolationForest |0.999    |0.9     |
 |InfinityNormRatio+SVM             |0.489    |0.49    |
